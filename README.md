@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Palash
-- 👀 I’m interested in data science, data analysis
+- 👀 I’m interested in data science data data analysis
 - 🌱 I’m currently learning 
 - 📫 Contact me via email (palashchaudhary@ymail.com)
 
