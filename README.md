@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palash
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning basics of python
+- 👀 I’m interested in data science, data analysis
+- 🌱 I’m currently learning 
 - 📫 Contact me via email (palashchaudhary@ymail.com)
 
 <!---
